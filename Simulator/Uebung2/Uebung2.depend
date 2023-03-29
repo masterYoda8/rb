@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1586377971 source:c:\dokumente\lehre\ss2020\it\rb\projekte\simulator\zettel1_a2\uebung1\uebung1\main.cpp
+	"nnxt.h"
+
+1586381870 c:\dokumente\lehre\ss2020\it\rb\projekte\simulator\zettel1_a2\uebung1\uebung1\nnxt.h
+	<iostream>
+	<winsock2.h>
+	<windows.h>
+	<stdio.h>
+	<thread>
+
+1586382752 source:c:\dokumente\lehre\ss2020\it\rb\projekte\simulator\auslieferung\uebung1\main.cpp
+	"nnxt.h"
+
+1586382190 c:\dokumente\lehre\ss2020\it\rb\projekte\simulator\auslieferung\uebung1\nnxt.h
+	<iostream>
+	<winsock2.h>
+	<windows.h>
+	<stdio.h>
+	<thread>
+
+1679396464 source:c:\users\becke\desktop\studium\rb\uebung1\main.cpp
+	"nnxt.h"
+	<stdio.h>
+
+1678966470 c:\users\becke\desktop\studium\rb\uebung1\nnxt.h
+	<iostream>
+	<winsock2.h>
+	<windows.h>
+	<stdio.h>
+	<thread>
+	<vector>
+	<string>
+
